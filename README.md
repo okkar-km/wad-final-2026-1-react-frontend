@@ -13,11 +13,10 @@ Replace each `TODO` before submission. Source links should point to the student'
 
 | Item | Link |
 | --- | --- |
-| Backend source (`next-backend/`) | TODO: add GitHub source URL |
-| Frontend source (`react-frontend/`) | TODO: add GitHub source URL |
-| Deployed backend | TODO: add the backend production URL |
-| Deployed frontend | TODO: add the frontend production URL |
-| Screen and camera recording | TODO: add the recording link |
+| Backend source (`next-backend/`) | https://github.com/okkar-km/wad-final-2026-1-next-backend |
+| Frontend source (`react-frontend/`) | https://github.com/okkar-km/wad-final-2026-1-react-frontend |
+| Deployed backend | https://wad-final-2026-1-next-backend.vercel.app |
+| Deployed frontend | https://wad-final-2026-1-react-frontend.vercel.app |
 
 ## Test Credentials
 
